@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.macupdate.com/products/56007/l/polarr-photo-editor-logo.png?v=1667306659" alt="Polarr Photo Editor Pro Banner" />
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/df/9b/1adf9bd6-1f3b-0f39-99e6-768d913f0bdd/AppIcon-Lite-0-0-85-220-0-5-0-2x.png/1200x630wa.png" alt="Polarr Photo Editor Pro Banner" />
 </p>
 
 <h1 align="center">Polarr Photo Editor Pro for macOS</h1>
